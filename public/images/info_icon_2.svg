@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75.188" height="89.375" viewBox="0 0 75.188 89.375">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e24014;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #4d4d4d;
+      }
+
+      .cls-3 {
+        fill: #ffb503;
+      }
+    </style>
+  </defs>
+  <path id="Rectangle_52_copy" data-name="Rectangle 52 copy" class="cls-1" d="M0.689,15.619L56.06,0.159l0.574,12.987Z" transform="translate(-0.688 -0.156)"/>
+  <path class="cls-2" d="M59.9,87.075h0L3.955,89.547,0.689,15.619,56.06,0.159l0.574,12.987,15.984-.706,3.267,73.928ZM54.151,2.246L10.679,15.177l43.958-1.942ZM70.709,14.527l-67.934,3L5.865,87.46l67.934-3Z" transform="translate(-0.688 -0.156)"/>
+  <path id="Rectangle_53_copy_2" data-name="Rectangle 53 copy 2" class="cls-1" d="M60.045,45.027L48.763,61.541,36.068,46.087Z" transform="translate(-0.688 -0.156)"/>
+  <path id="Rectangle_53_copy" data-name="Rectangle 53 copy" class="cls-3" d="M46.322,29.618l-16.205,17.7-17.7-16.2Z" transform="translate(-0.688 -0.156)"/>
+  <path class="cls-2" d="M60.045,45.027L48.806,62.511,36.068,46.087Zm-5.669,30.28-5.26-5.775-4.73,6.217ZM50.2,71.488l-2,.088L47.72,60.586l2-.088Zm-3.881-41.87-16.205,17.7-17.7-16.2ZM36.305,74.1l-5.26-5.775-4.73,6.217Zm-4.173-3.819-2,.088L29.031,45.4l2-.088Zm9.312-38.449L29.986,44.353,17.468,32.9ZM56.137,47.2L48.63,58.544,40.152,47.908Z" transform="translate(-0.688 -0.156)"/>
+</svg>
